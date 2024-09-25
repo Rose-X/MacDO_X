@@ -10,9 +10,9 @@ menu() {
 
     echo -e "${YELLOW}============================================${NC}"
     echo -e "        🍔 ${RED}Bienvenue dans MacDo${NC} 🍔"
-    echo -e "              By ${GREEN}Rosé_and_X${NC}"
+    echo -e "              By ${GREEN}Rose__X${NC}"
     echo -e "             ${RED}My head is a jungle, jungle !${NC}"
-    echo -e "            ${GREEN}https://www.youtube.com/watch?v=cvzu3bKgt5Y${NC}"    
+    echo -e "     ${GREEN}https://www.youtube.com/watch?v=cvzu3bKgt5Y${NC}"    
     echo -e "${YELLOW}============================================${NC}"
 
     # Logo du burger
