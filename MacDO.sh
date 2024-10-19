@@ -11,7 +11,7 @@ menu() {
     echo -e "${YELLOW}============================================${NC}"
     echo -e "        🍔 ${RED}Bienvenue dans MacDo${NC} 🍔"
     echo -e "              By ${GREEN}Rose__X${NC}"
-    echo -e "             ${RED}My head is a jungle, jungle !${NC}"
+    echo -e "         ${RED}My head is a jungle, jungle !${NC}"
     echo -e "     ${GREEN}https://www.youtube.com/watch?v=cvzu3bKgt5Y${NC}"    
     echo -e "${YELLOW}============================================${NC}"
 
@@ -39,7 +39,7 @@ echo "============================================"
 echo "Voulez-vous changer l'adresse MAC ?"
 echo "============================================"
 
-echo "Voir ses interfaces y/n" 
+echo "Voir ses interfaces (y/n) :" 
 read Vinter
 oui="y"
 OUI="Y"
