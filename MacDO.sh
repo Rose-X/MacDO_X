@@ -1,12 +1,12 @@
 
 #!/bin/bash
 menu() {
-    # Définition des couleurs
+    
     RED='\033[0;31m'
     GREEN='\033[0;32m'
     YELLOW='\033[1;33m'
     BROWN='\033[0;33m'
-    NC='\033[0m' # Réinitialiser la couleur
+    NC='\033[0m' 
 
     echo -e "${YELLOW}============================================${NC}"
     echo -e "        🍔 ${RED}Bienvenue dans MacDo${NC} 🍔"
