@@ -46,8 +46,9 @@ OUI="Y"
 if  [ "$Vinter" = "$oui" ]; then 
 	
 	ifconfig
-elif [ "$Vinter" = "$oui" ]; then
+elif [ "$Vinter" = "$OUI" ]; then
 	ifconfig
+
 else 
 
 	echo ""
